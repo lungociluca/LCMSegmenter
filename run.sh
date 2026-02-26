@@ -1,0 +1,1 @@
+python ./open_vocabulary/voc12/ptp_stable_best.py
